@@ -1,6 +1,6 @@
 <h1 align="center">
     <img src="https://mutant.com.br/wp-content/uploads/2022/04/Logos_Myra_black.png">    
-    <p style="font-size: 14px;"> Not every hero wears a cape! 🦹 </p>
+    <p style="font-size: 10px;"> Not every hero wears a cape! 🦹 </p>
 </h1>
 
 
